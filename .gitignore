@@ -62,3 +62,6 @@ data/
 *.jpg
 
 *.zip
+
+/yolov5
+yolov5
