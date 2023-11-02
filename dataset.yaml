@@ -1,0 +1,8 @@
+path: ../data  
+train: images 
+val: images
+
+# Classes (80 COCO classes)
+nc: 17
+names: ['dog','person','cat','tv','car','meatballs','marinara sauce','tomato soup','chicken noodle soup','french onion soup','chicken breast','ribs','pulled pork','hamburger',
+'cavity','awake', 'drowsy_1', 'droswy_2', 'Look_Forward' , 'yelling']
